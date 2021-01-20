@@ -1,2 +1,2 @@
 # CPP_ParticleExplosion
-Particle Explosion using c++ SDL Library
+Particle Explosion using C++ SDL Library

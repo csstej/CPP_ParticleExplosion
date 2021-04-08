@@ -1,3 +1,3 @@
-# Particle Fire Explosion Tutorial By John Purcell (Cave of Programming)
+# Particle Fire Explosion using C++
 
-![Here's a Sample:](sample.png)
+
